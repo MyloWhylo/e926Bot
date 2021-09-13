@@ -1,2 +1,3 @@
-# e621Bot
-Discord bot that e6es
+# e926Bot
+It's a bot that does stuff!
+settings
